@@ -1,35 +1,99 @@
 <h1 align="center">Hi 👋, I'm Anurag Prasad</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">Java Developer | Spring Boot & REST APIs | Backend Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragprasad003&label=Profile%20views&color=0e75b6&style=flat" alt="anuragprasad003" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragprasad003&label=Profile%20views&color=0e75b6&style=flat" alt="anuragprasad003" />
+  <a href="https://linkedin.com/in/anuragprasad0308"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/anuragpd003"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:anupd2304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragprasad003" alt="anuragprasad003" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragprasad003" alt="anuragprasad003" /></a>
+</p>
 
-- 🔭 I’m currently working on **Java Backend Project**
+---
 
-- 🌱 I’m currently learning **Spring Boot, REST APIs, Microservices , Hibernate AWS, Docker,**
+### 📝 Professional Summary
 
-- 👯 I’m looking to collaborate on **Java, Spring Boot and Full Stack projects**
+Java Developer with hands-on experience designing and building production-grade backend systems and REST APIs using **Spring Boot** and **Spring Security**. Experienced in implementing **JWT/OAuth 2.0** authentication and **role-based access control (RBAC)**, with a solid grounding in relational data modeling. Completed a backend development internship at **Infosys Springboard**. Strong foundation in Data Structures & Algorithms and object-oriented design; certified **AWS Cloud Practitioner**.
 
-- 🤝 I’m looking for help with **Building scalable Java backend applications**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnuragPrasad003](https://github.com/AnuragPrasad003)
+### 🛠️ Technical Skills
 
-- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, React, Git and DSA**
+**Core Java:** Java 8+ Features (Streams API, Lambda Expressions, Optional, Functional Interfaces), Multithreading, Collections Framework, Exception Handling, OOP Fundamentals
 
-- 📫 How to reach me **anupd2304@gmail.com**
+**Backend / Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, RESTful API Design, Microservices Architecture, Maven, Build Automation
 
-- ⚡ Fun fact **I love turning ideas into real-world applications with Java 🚀**
+**Security & Concepts:** JWT, OAuth 2.0, Auth0, Role-Based Access Control (RBAC), Design Patterns
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+**Databases & Cloud:** MySQL, JPQL, Relational Schema Design, SQL Query Optimization, AWS Cloud Practitioner
+
+**Tools & Methodologies:** Git, GitHub, Postman, IntelliJ IDEA, Docker (basic), Agile Methodology
+
+---
+
+### 💼 Experience
+
+**Java Developer Intern — Infosys Springboard (Remote)** · Nov 2025 – Jan 2026
+- Designed and built a backend **Personal Carbon Footprint Tracker** using Java, Spring Boot, and MySQL, following MVC architecture across 8 modules/endpoints
+- Built RESTful APIs to calculate CO2 emissions across transport, electricity, and diet activity categories from user input, with input validation and centralized exception handling to reduce unhandled error cases
+
+---
+
+### 🚀 Projects
+
+**AP Bank – E-Banking Platform** [GitHub] · Feb 2026 – Apr 2026
+- Implemented an OAuth 2.0 Authorization Server using the PKCE flow, with a separate Resource Server to isolate and protect 4 business modules
+- Built custom Spring Security filter chains mapping JWT + Auth0 roles to database-level scopes, restricting access across 3 distinct permission levels/roles
+- **Tech Stack:** Java, Spring Boot, Spring Security, OAuth 2.0, JWT, Auth0, MySQL, Relational Mapping
+
+**E-Commerce Platform Backend** [GitHub] · Aug 2025 – Oct 2025
+- Built a multi-tier transaction and inventory backend in Spring Boot, covering shopping cart, product catalog, and receipt-generation modules
+- Built and tested 20+ RESTful API endpoints; resolved CORS cross-origin issues and implemented token-expiry/refresh handling for session continuity
+- **Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, REST API Engineering
+
+**Jobify – Backend Job Portal System** [GitHub] · May 2025 – Jul 2025
+- Designed separate access models for recruiters vs. applicants using role-based endpoint restrictions
+- Implemented multi-criteria search using JPQL, allowing keyword lookups across 5 filterable fields (e.g. skills, location, job title)
+- **Tech Stack:** Java, Spring Boot, Spring Security, JPA/Hibernate, MySQL, Persistent Relational Logic
+
+📌 More projects at [github.com/AnuragPrasad003](https://github.com/AnuragPrasad003)
+
+---
+
+### 🎓 Education
+
+**Sagar Institute of Research & Technology, Bhopal** · Jul 2022 – Jun 2026
+B.Tech in Computer Science & Engineering — CGPA: 7.68/10
+
+---
+
+### 🏆 Certifications & Achievements
+
+- AWS Cloud Practitioner – Coursera
+- Data Structures & Algorithms – NPTEL
+- GitHub Foundations Certified – GitHub
+- Java Programming – Infosys Springboard
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragprasad003&show_icons=true&locale=en&theme=default" alt="anuragprasad003" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragprasad003&show_icons=true&locale=en&layout=compact" alt="anuragprasad003" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragprasad003&theme=default" alt="anuragprasad003" />
+</p>
+
+---
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://linkedin.com/in/anuragprasad0308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragprasad0308" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anuragpd003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuragpd003" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragprasad003&show_icons=true&locale=en&layout=compact" alt="anuragprasad003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragprasad003&show_icons=true&locale=en" alt="anuragprasad003" /></p>
