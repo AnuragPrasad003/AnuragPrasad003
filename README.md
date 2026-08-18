@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragprasad003" alt="anuragprasad003" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=anuragprasad003" alt="anuragprasad003" /></a>
 </p>
 
 ---
@@ -68,6 +68,9 @@ Java Developer with hands-on experience designing and building production-grade 
 **Sagar Institute of Research & Technology, Bhopal** · Jul 2022 – Jun 2026
 B.Tech in Computer Science & Engineering — CGPA: 7.68/10
 
+**Jaypee Vidya Mandir** · Apr 2021 – Mar 2022
+Class XII – CBSE — Percentage: 64.4%
+
 ---
 
 ### 🏆 Certifications & Achievements
@@ -75,7 +78,7 @@ B.Tech in Computer Science & Engineering — CGPA: 7.68/10
 - AWS Cloud Practitioner – Coursera
 - Data Structures & Algorithms – NPTEL
 - GitHub Foundations Certified – GitHub
-- Java Programming – Infosys Springboard
+- Java Programming – Infosys
 
 ---
 
@@ -87,7 +90,7 @@ B.Tech in Computer Science & Engineering — CGPA: 7.68/10
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragprasad003&theme=default" alt="anuragprasad003" />
+  <img src="https://streak-stats.demolab.com/?user=anuragprasad003&theme=default" alt="anuragprasad003" />
 </p>
 
 ---
