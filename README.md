@@ -16,7 +16,7 @@
 
 ### 📝 Professional Summary
 
-Java Developer with hands-on experience designing and building production-grade backend systems and REST APIs using **Spring Boot** and **Spring Security**. Experienced in implementing **JWT/OAuth 2.0** authentication and **role-based access control (RBAC)**, with a solid grounding in relational data modeling. Completed a backend development internship at **Infosys Springboard**. Strong foundation in Data Structures & Algorithms and object-oriented design; certified **AWS Cloud Practitioner**.
+Java Developer with hands-on experience designing and building production-grade backend systems and REST APIs using **Spring Boot** and **Spring Security**. Experienced in implementing **JWT** authentication and **role-based access control (RBAC)**, with a solid grounding in relational data modeling. Completed a backend development internship at **Infosys Springboard**. Strong foundation in Data Structures & Algorithms and object-oriented design; certified **AWS Cloud Practitioner**.
 
 ---
 
@@ -24,9 +24,9 @@ Java Developer with hands-on experience designing and building production-grade 
 
 **Core Java:** Java 8+ Features (Streams API, Lambda Expressions, Optional, Functional Interfaces), Multithreading, Collections Framework, Exception Handling, OOP Fundamentals
 
-**Backend / Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, RESTful API Design, Microservices Architecture, Maven, Build Automation
+**Backend / Frameworks:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, RESTful API Design, Maven
 
-**Security & Concepts:** JWT, OAuth 2.0, Auth0, Role-Based Access Control (RBAC), Design Patterns
+**Security & Concepts:** JWT, Auth0, Role-Based Access Control (RBAC)
 
 **Databases & Cloud:** MySQL, JPQL, Relational Schema Design, SQL Query Optimization, AWS Cloud Practitioner
 
