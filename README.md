@@ -8,9 +8,6 @@
   <a href="mailto:anupd2304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-kannan.vercel.app/?username=anuragprasad003" alt="anuragprasad003" /></a>
-</p>
 
 ---
 
